@@ -1,11 +1,10 @@
-#MedalliaDigitalSDK
 Pod::Spec.new do |s|
   s.name             = 'MDWhatsTheDaySDK'
   s.version          = '1.0.0'
-  s.summary          = 'What's the day SDK XCFramework'
+  s.summary          = 'Whats the day SDK XCFramework'
  
   s.description      = <<-DESC
-      What's the day SDK XCFramework presents today's day
+      Whats the day SDK XCFramework presents todays day
                        DESC
 
   s.homepage         = 'https://github.com/OriMedallia/MDWhatsTheDay'
