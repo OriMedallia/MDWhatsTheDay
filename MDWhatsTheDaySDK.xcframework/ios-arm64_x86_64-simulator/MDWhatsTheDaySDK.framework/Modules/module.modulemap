@@ -1,0 +1,11 @@
+framework module MDWhatsTheDaySDK {
+  umbrella header "MDWhatsTheDaySDK.h"
+
+  export *
+  module * { export * }
+}
+
+module MDWhatsTheDaySDK.Swift {
+  header "MDWhatsTheDaySDK-Swift.h"
+  requires objc
+}
